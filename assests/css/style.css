@@ -4,7 +4,7 @@
 body {
     background-image: url(../images/alpine-clouds-daylight-462149.jpg);
     background-size: cover;
-    background-repeat: no-repeat;
+    background-attachment: fixed;
     font-family: 'Patrick Hand', cursive;
     color:white;
     text-align: center;
