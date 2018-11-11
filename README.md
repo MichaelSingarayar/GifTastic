@@ -11,6 +11,7 @@ Using the GIPHY API I created a dynamic web page that populates with 10 animal g
 
 Languages/Technologies Used
 HTML, CSS, Bootstrap, Javascript, jQuery
+
 Giphy API (https://github.com/Giphy/GiphyAPI)
 
 
