@@ -1,5 +1,8 @@
 # GifTastic
 
+https://michaelsingarayar.github.io/GifTastic/
+
+
 ![gifsite](https://user-images.githubusercontent.com/43361200/48317256-826b3600-e5ac-11e8-83ff-256085807ff1.gif)
 
 
